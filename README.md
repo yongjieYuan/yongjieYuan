@@ -19,7 +19,9 @@ Here are some ideas to get you started:
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yongjieYuan/yongjieYuan/main/IMG_0008.JPG">
  <img alt="YOUR-ALT-TEXT" src="IMG_0008.JPG">
 </picture>
+
 ---
+
 Thanks for visiting my profile.
 
 ### About me :surfing_man: :
