@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### print("Hi~ I'm Jared Yuan. :wave:")
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yongjieYuan/yongjieYuan/main/IMG_0008.JPG)">
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yongjieYuan/yongjieYuan/main/IMG_0008.JPG">
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yongjieYuan/yongjieYuan/main/IMG_0008.JPG">
  <img alt="YOUR-ALT-TEXT" src="IMG_0008.JPG">
 </picture>
