@@ -26,7 +26,7 @@ Thanks for visiting my profile.
 
 ### About me :surfing_man: :
 
-- I am currently a **Flutter**er,knowing something about **web frontend**  as well.
+- I am currently a **Flutter**er,I also do **web** development and have some knowledge of web-related topics. Occasionally, I like to dabble in it as well.
 
   我是一名Flutter开发者，当然也玩web前端
 
