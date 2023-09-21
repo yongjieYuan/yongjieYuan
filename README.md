@@ -28,7 +28,7 @@ Thanks for visiting my profile.
 
 - I am currently a **Flutter**er,I also do **web** development and have some knowledge of web-related topics. Occasionally, I like to dabble in it as well.
 
-  我是一名Flutter开发者，当然也玩web前端
+  我是一名偶尔也涉猎web开发领域的Flutter开发者。
 
 ### My Skill Set :person_fencing::  
 <table><tr><td valign="top" width="100%">
